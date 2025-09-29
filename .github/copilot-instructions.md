@@ -26,4 +26,4 @@
 ## Extending the app
 - Update `next.config.ts` if you introduce external domains for images or need experimental flags.
 - When adding themes or variants, adjust the custom properties in `globals.css` and keep the `@theme inline` definitions in sync.
-- Document new utilities in `README.md` or extend these instructions so future AI agents understand the workflow.
+- Document new utilities in `README.md` or extend these instructions so future AI agents understand the workflow. check. 
